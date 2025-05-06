@@ -5,7 +5,7 @@ Simulink-based DC charging controller for EVs with multiple drivelines.
 
 This project demonstrates a **Simulink-based charging control system** for electric vehicles (EVs) equipped with **multiple drivelines and battery packs**. The system ensures intelligent battery selection and safe charging strategy in DC charging scenarios.
 
-## 🔧 Project Scope
+## Project Scope
 
 In most EVs, only one battery pack is charged at a time using standard DC charging protocols. This project addresses the challenge of **sequentially charging multiple driveline batteries** in a way that:
 - Balances state-of-charge (SoC) across all battery packs.
@@ -35,7 +35,7 @@ Charging behavior is visualized through SoC graphs that reflect the intelligent,
 
 You can view the full project report with Simulink diagrams and detailed explanations in this PDF:
 
-👉 [Download Project Report (PDF)](https://github.com/GuzinGunduz/ev-driveline-charging/blob/main/SelectDrivelineGuzin.pdf)
+ [Download Project Report (PDF)](https://github.com/GuzinGunduz/ev-driveline-charging/blob/main/SelectDrivelineGuzin.pdf)
 
 ## Tools Used
 
