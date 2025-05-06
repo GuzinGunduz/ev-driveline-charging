@@ -35,7 +35,9 @@ Charging behavior is visualized through SoC graphs that reflect the intelligent,
 
 You can view the full project report with Simulink diagrams and detailed explanations in this PDF:
 
- [Download Project Report (PDF)](https://github.com/GuzinGunduz/ev-driveline-charging/blob/main/SelectDrivelineGuzin(1).pdf)
+ 
+ [Download Project Report (PDF)](https://github.com/GuzinGunduzI/ev-driveline-charging/blob/main/SelectDrivelineGuzin%20(1).pdf)
+
 
 ## Tools Used
 
